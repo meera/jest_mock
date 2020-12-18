@@ -14,4 +14,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `npm run test.cli`
 
-I didn't get npm run test to work - had to use --no-watchman flag to get tests to run.
+I didn't get npm run test to work.  I had to create another command --no-watchman flag to get tests to run.
