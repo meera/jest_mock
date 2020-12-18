@@ -15,7 +15,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "test.cli" : "react-scripts test --no-watchman",
+    "test.cli": "react-scripts test --no-watchman",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
